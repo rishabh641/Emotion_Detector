@@ -3,14 +3,14 @@ Detection of Human emotions by Convolutional neural network
 
 ## About Dataset
 > https://www.kaggle.com/datasets/msambare/fer2013 </br>
-> We mapped 7 emotions :- 
-    >> Angry </br>
-    >> Disgust </br>
-    >> fearful </br>
-    >> Happy </br>
-    >> Sad </br>
-    >> Surprise </br>
-    >> Neutral </br>
+> We mapped 7 emotions :- </br>
+  >> Angry </br>
+  >> Disgust </br>
+  >> fearful </br>
+  >> Happy </br>
+  >> Sad </br>
+  >> Surprise </br>
+  >> Neutral </br>
 ## Requirements :- 
 > Keras Used to Train Convolutional Neural Network </br>
 
